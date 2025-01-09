@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+李欣蔚（1990-），博士，文峰教授，博士生导师，重庆邮电大学文峰青年百人。于北京航空航天大学获得工学学士和博士学位，博士期间曾获国家留学基金委资助赴美国伊利诺伊大学香槟分校交流学习。系重庆邮电大学生命健康信息科学与工程学院教师，重庆市医用电子与信息技术工程研究中心成员，重庆邮电大学高等科学研究院成员。担任中国老年保健协会心脑血管疾病防治新技术应用分会常务委员，重庆市数字医学学会理事，北京航空航天大学重庆校友会理事，Neuroimage, IEEE JBHI等多个国际知名期刊审稿人，Biomedical Engineering Communications, Advanced Biotechnology等期刊青年编委，国家自然科学基金委网评专家。
+
+长期从事医学影像处理、脑科学、人工智能与医学交叉领域的研究。主持国家自然科学基金、1X3基金、重庆市科技局重大专项课题等科研项目10余项，参与国家级科研项目7项。开展面向疾病辅诊的脑网络优化构建、基于多模态数据的疾病预测、融合脑领域知识的人工智能算法设计等研究，为认知障碍等重大疾病的病理机制探索和辅助诊断等临床问题研究提供新的计算手段和有效的解决方案，取得了系列基础性和开拓性成果。在IEEE JBHI、Human Brain Mapping等具有国际影响力的期刊和会议上发表SCI/EI论文40余篇，其中JCR一区、二区SCI论文近30篇。申请/授权国家发明专利10余项。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用，并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
+
+积极开展与高校、企业和医院之间的深度合作，被聘为企业技术指导专家，致力于推动智能医学影像处理在临床中的实际应用。主要的产学研合作包括：1）与重庆德方公司、陆军军医大学新桥医院等合作研发镜检细胞自动识别装置，获批医疗器械注册证3件；2）与重庆医科大学附属医院合作搭建肝移植智能用药系统、远程心电智能诊断系统；3）与北京航空航天大学、北京师范大学、陆军军医大学西南医院合作开发脑结构分割算法等。研究成果已用于新桥医院、重医附一院、重钢总医院等多家医院，产生了较高的临床应用价值和社会民生效益。
 
 A data-driven personal website
 ======
